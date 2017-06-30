@@ -1,0 +1,1 @@
+Put all poser files in this dir like 1.jpg 2.jpg
